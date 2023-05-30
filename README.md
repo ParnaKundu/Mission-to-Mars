@@ -18,6 +18,7 @@ The information about the climate of Mars or the news articles about the Mars mi
     1. How many months exist on Mars?
 
         There are 12 months in Mars.
+        
         ![Months](Images/Months.png)
 
     2. How many Martian (and not Earth) days worth of data exist in the scraped dataset?
