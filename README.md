@@ -9,7 +9,7 @@ The information about the climate of Mars or the news articles about the Mars mi
 
 ## Results
 
-- The [Mars NASA news site](https://redplanetscience.com) is inspected and the tiltes and preview text are extracted and formatted using BeautifulSoup. The list is then saved as a JSON file and as documents in a Mongo Database.
+- The [Mars NASA news site](https://redplanetscience.com) is inspected and the titles and preview text are extracted and formatted using BeautifulSoup. The list is then saved as a JSON file and as documents in a Mongo Database.
 
 - From the [Mars Temperature Data Site](https://data-class-mars-challenge.s3.amazonaws.com/Mars/index.html) the weather data is extracted using BeautifulSoup and stored in Pandas DataFrame.
 
@@ -31,15 +31,19 @@ The information about the climate of Mars or the news articles about the Mars mi
 
         The coldest month is the third month and the warmest month is the eighth month.
         
-        ![Warmest_Coldest_month](Images/Warmest_coldest_month)
+        ![Warmest_Coldest_month](Images/Warmest_coldest_month.png)
 
     4. Which months have the lowest and the highest atmospheric pressure on Mars?
 
         The lowest atmospheric pressure on Mars is in the sixth month and the highest pressure is in the ninth month.
+        
+        ![Atmospheric_presure](Images/Atmospheric_pressure.png)
 
     5. About how many terrestrial (Earth) days exist in a Martian year? 
 
         The distance from peak to peak is roughly (1425-750), or 675 days. A year on Mars appears to be about 675 days from the plot.
+        
+        ![Terrestial_days](Images/Terrestial_days.png)
         
 - The weather data is exported to a CSV file.
 
