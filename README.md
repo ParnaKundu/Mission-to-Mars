@@ -24,10 +24,14 @@ The information about the climate of Mars or the news articles about the Mars mi
     2. How many Martian (and not Earth) days worth of data exist in the scraped dataset?
 
         There are 1867 Martian days worth of data.
+        
+        ![Days](Images/Days.png)
 
     3. What are the coldest and the warmest months on Mars (at the location of Curiosity)? 
 
         The coldest month is the third month and the warmest month is the eighth month.
+        
+        ![Warmest_Coldest_month](Images/Warmest_coldest_month)
 
     4. Which months have the lowest and the highest atmospheric pressure on Mars?
 
